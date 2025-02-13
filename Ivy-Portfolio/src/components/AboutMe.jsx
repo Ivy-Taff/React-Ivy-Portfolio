@@ -1,5 +1,4 @@
 import React from 'react';
-import avatar from '../assets/images/avatar.jpg';
 
 const AboutMe = () => {
   return (

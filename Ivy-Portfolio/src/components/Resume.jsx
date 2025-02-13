@@ -10,7 +10,6 @@ const Resume = () => {
         <li>HTML, CSS, JavaScript</li>
         <li>React, Node.js</li>
         <li>Git, GitHub</li>
-        {/* Add more proficiencies here */}
       </ul>
     </section>
   );
